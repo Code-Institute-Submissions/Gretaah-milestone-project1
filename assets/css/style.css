@@ -67,7 +67,7 @@ footer {
 
 /* -------------------------------- Projects --------------------------------  */ 
 
-/* -------------------------------- Projects --------------------------------  */
+/* -------------------------------- Connect --------------------------------  */
 
 /* ------------------------ Body + Background Image -------------------------  */ 
 
@@ -81,11 +81,19 @@ body {
 }
 
 #main-page {
-    background: url("../imgs/coding.jpeg") rgba(34, 35, 36, 0.7);
+    background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.7);
 }
 
 #progress-page {
-    background: url("../imgs/domore.jpeg") rgba(34, 35, 36, 0.8); 
+    background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.8); 
+}
+
+#project-page {
+    background: url("../imgs/project.jpeg") rgba(34, 35, 36, 0.8); 
+}
+
+#connect-page {
+    background: url("../imgs/connect.jpeg") rgba(34, 35, 36, 0.8); 
 }
 
 /* -------------------------------- General ---------------------------------  */ 
