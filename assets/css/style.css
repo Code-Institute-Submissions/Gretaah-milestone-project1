@@ -5,7 +5,6 @@
 /* ----------------------------------- Footer ---------------------------------  */ 
 
 footer {
-    background: rgba(34, 35, 36, 0.3);
     width: 100%;
     height: 65px;
     position: fixed;
@@ -22,9 +21,8 @@ footer {
 }
 .contact i {
     color: #efefef;
-    font-size: 22px;
+    font-size: 18px;
 }
-
 /* ------------------------------ Navigation Bar ----------------------------  */ 
 
 .navbar-brand {
@@ -60,7 +58,41 @@ footer {
 /* -------------------------------- Projects --------------------------------  */ 
 
 /* -------------------------------- Connect --------------------------------  */
+.contact-text {
+    font-family: "Fjalla One", sans-serif;
+    color: #efefef;
+    padding: 75px 0px 0px 15px;
+}
 
+.contact-text h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
+
+.contact-text p {
+    padding-top: 25px;
+    letter-spacing: 2px;
+}
+
+.contact-form {
+    width: 43%;
+    padding: 50px 0px 0px 15px;
+    background-color: transparent;
+}
+
+.contact-form input {
+    background-color: transparent;
+    color: #efefef;
+}
+
+.contact-form textarea {
+    background-color: transparent;
+}
+
+.contact-button {
+    font-size: 24px;
+}
 /* ------------------------ Body + Background Image -------------------------  */ 
 
 body {
@@ -73,7 +105,7 @@ body {
 }
 
 #main-page {
-    background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.8);
+    background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.6);
 }
 
 #progress-page {
