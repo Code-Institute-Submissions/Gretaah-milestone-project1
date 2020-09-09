@@ -56,6 +56,35 @@ footer {
 /* -------------------------------- Progress --------------------------------  */ 
 
 /* -------------------------------- Projects --------------------------------  */ 
+ 
+.card {
+    width: 100%;
+    border: 6px solid #365251;
+    color: #efefef;
+    font-family: "Fjalla One", sans-serif;
+    letter-spacing: 2px;
+}
+
+.card-img-top {
+    height: 225px;
+}
+
+.card-body {
+    background-color: #3b453d;
+}
+
+.card-body a {
+    font-size: 28px;
+    padding-left: 50px;
+    color: #efefef;
+}
+
+.project-cards {
+    align-content: center;
+    padding-top: 125px;
+    padding-left: 225px;
+    width: 90%;
+}
 
 /* -------------------------------- Connect --------------------------------  */
 .contact-text {
