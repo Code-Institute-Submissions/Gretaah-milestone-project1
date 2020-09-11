@@ -53,8 +53,8 @@ footer {
     font-family: "Fjalla One", sans-serif;
     color: #efefef;
     letter-spacing: 2px;
-    font-size: 28px;
-    padding: 75px 0px 35px 35px;
+    font-size: 24px;
+    padding: 150px 0px 35px 35px;
 }
 
 
@@ -120,6 +120,10 @@ footer {
 .project-cards {
     padding: 75px 0 0 45px;
     width: 90%;
+}
+
+.project-cards .col-sm-12 {
+    padding: 15px 0 15px 1rem;
 }
 
 .project-header {
