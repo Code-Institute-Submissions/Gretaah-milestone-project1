@@ -200,3 +200,7 @@ body {
 .uppercase {
     text-transform: uppercase;
 }
+
+body {
+    margin-bottom: 75px;
+}
