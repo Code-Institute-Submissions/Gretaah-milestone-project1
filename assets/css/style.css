@@ -54,36 +54,44 @@ footer {
     color: #efefef;
     letter-spacing: 2px;
     font-size: 28px;
-    padding: 75px 0px 35px 75px;
+    padding: 75px 0px 35px 35px;
 }
 
 
 /* -------------------------------- Progress --------------------------------  */ 
-
+.progress-container {
+    padding-left: 35px;
+    padding-top: 75px;
+}
 .progress {
     width: 60%;
-    height: 28px;
-    padding-top: 8px;
+    height: 36px;
+    padding-top: 10px;
     background-color: transparent;
 }
 
 .progress-bar {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
-    line-height: 24px;
     letter-spacing: 2px;
     font-family: "Fjalla One", sans-serif;
 }
 
 .progress-bar span {
-    position: absolute;
-    text-align: center;
+    position: absolute; 
 } 
+
+.progress-text {
+    padding: 75px 0px 0px 35px;
+    font-family: "Fjalla One", sans-serif;
+    letter-spacing: 2px;
+    font-size: 24px;
+}
 
 /* -------------------------------- Projects --------------------------------  */ 
  
 .card {
-    width: 100%;
+    width: 18rem;
     border: 4px solid #365251;
     color: #efefef;
     font-family: "Fjalla One", sans-serif;
@@ -95,14 +103,12 @@ footer {
 }
 
 .card-body {
-    /* background-color: #3b453d; */
-    /* background-color: #5f8ff5; */
     background-color: #b06137;
 }
 
 .card-body a {
     font-size: 34px;
-    padding-left: 50px;
+    padding-left: 46px;
     color: #efefef;
     text-decoration: none;
 }
@@ -112,15 +118,12 @@ footer {
 }
 
 .project-cards {
-    align-content: center;
-    padding-top: 125px;
-    padding-left: 240px;
+    padding: 75px 0 0 45px;
     width: 90%;
 }
 
 .project-header {
-    text-align: center;
-    padding-top: 75px; 
+    padding: 75px 0 0 45px;
     font-family: "Fjalla one", sans-serif;
     font-size: 18px;
 }
@@ -129,7 +132,7 @@ footer {
 .contact-text {
     font-family: "Fjalla One", sans-serif;
     color: #efefef;
-    padding: 75px 0px 0px 15px;
+    padding: 75px 0px 0px 35px;
 }
 
 .contact-text h2 {
@@ -145,7 +148,7 @@ footer {
 
 .contact-form {
     width: 43%;
-    padding: 50px 0px 0px 15px;
+    padding: 50px 0px 0px 35px;
     background-color: transparent;
 }
 
