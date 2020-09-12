@@ -1,206 +1,194 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
-
-/* ----------------------------------- Footer ---------------------------------  */ 
+/* ----------------------------------- Footer ---------------------------------  */
 
 footer {
-    width: 100%;
-    height: 65px;
-    position: fixed;
-    bottom: 1px;
+	width: 100%;
+	height: 65px;
+	position: fixed;
+	bottom: 1px;
 }
 
 .copyright {
-    text-align: right;
-    padding-top: 30px;
+	text-align: right;
+	padding-top: 30px;
 }
 
 .contact {
-    padding-top: 5px;
+	padding-top: 5px;
 }
+
 .contact i {
-    color: #efefef;
-    font-size: 18px;
+	color: #efefef;
+	font-size: 18px;
 }
 
 .contact i:hover {
-    color: #0B0080;
+	color: #0056b3;
 }
 
-/* ------------------------------ Navigation Bar ----------------------------  */ 
+
+/* ------------------------------ Navigation Bar ----------------------------  */
 
 .navbar-brand {
-    color: #efefef;
-    font-family: "Anton", sans-serif;
-    font-size: 24px;
-    text-decoration: none;
+	color: #efefef;
+	font-family: "Anton", sans-serif;
+	font-size: 24px;
+	text-decoration: none;
 }
 
 .nav-link {
-    color: #efefef;
-    font-family: "Anton", sans-serif;
-    font-weight: 500;
-    font-size: 24px;
-    letter-spacing: 2px;
+	color: #efefef;
+	font-family: "Anton", sans-serif;
+	font-weight: 500;
+	font-size: 24px;
+	letter-spacing: 2px;
 }
 
 
+/* ---------------------------------- Home ----------------------------------  */
 
-/* ---------------------------------- Home ----------------------------------  */ 
 
 .home-text {
-    font-family: "Fjalla One", sans-serif;
-    color: #efefef;
-    letter-spacing: 2px;
-    font-size: 24px;
-    padding: 150px 0px 35px 35px;
+	color: #efefef;
+	letter-spacing: 2px;
+	font-size: 24px;
 }
 
 
-/* -------------------------------- Progress --------------------------------  */ 
-.progress-container {
-    padding-left: 35px;
-    padding-top: 75px;
-}
+/* -------------------------------- Progress --------------------------------  */
+
+
 .progress {
-    width: 60%;
-    height: 36px;
-    padding-top: 10px;
-    background-color: transparent;
+	height: 36px;
+	margin-bottom: 1em;
+	background-color: transparent;
 }
 
 .progress-bar {
-    font-size: 18px;
-    font-weight: 600;
-    letter-spacing: 2px;
-    font-family: "Fjalla One", sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 2px;
 }
 
 .progress-bar span {
-    position: absolute; 
-} 
-
-.progress-text {
-    padding: 75px 0px 0px 35px;
-    font-family: "Fjalla One", sans-serif;
-    letter-spacing: 2px;
-    font-size: 24px;
+	position: absolute;
 }
 
-/* -------------------------------- Projects --------------------------------  */ 
- 
-.card {
-    width: 18rem;
-    border: 4px solid #365251;
-    color: #efefef;
-    font-family: "Fjalla One", sans-serif;
+.progress-text {
+	padding: 75px 0px 0px 0px;
+	letter-spacing: 2px;
+	font-size: 24px;
+}
+
+
+/* -------------------------------- Projects --------------------------------  */
+
+.my-card {
+	color: #efefef;
     letter-spacing: 2px;
 }
 
 .card-img-top {
-    height: 215px;
+	height: 12em;
+	object-fit: cover;
 }
 
 .card-body {
-    background-color: #b06137;
+	background-color: #b06137;
 }
 
 .card-body a {
-    font-size: 34px;
-    padding-left: 46px;
-    color: #efefef;
-    text-decoration: none;
+	font-size: 34px;
+	color: #efefef;
+	text-decoration: none;
 }
 
 .card-body a:hover {
-    color: #0B0080;
-}
-
-.project-cards {
-    padding: 75px 0 0 45px;
-    width: 90%;
-}
-
-.project-cards .col-sm-12 {
-    padding: 15px 0 15px 1rem;
+	color: #0056b3;
 }
 
 .project-header {
-    padding: 75px 0 0 45px;
-    font-family: "Fjalla one", sans-serif;
-    font-size: 18px;
+	font-size: 18px;
 }
-
 /* -------------------------------- Connect --------------------------------  */
+
 .contact-text {
-    font-family: "Fjalla One", sans-serif;
-    color: #efefef;
-    padding: 75px 0px 0px 35px;
+	color: #efefef;
 }
 
 .contact-text h2 {
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
 
 .contact-text p {
-    padding-top: 25px;
-    letter-spacing: 2px;
+	padding-top: 25px;
+	letter-spacing: 2px;
 }
 
 .contact-form {
-    width: 43%;
-    padding: 50px 0px 0px 35px;
-    background-color: transparent;
+	background-color: transparent;
 }
 
 .contact-form input {
-    background-color: transparent;
-    color: #efefef;
+	background-color: transparent;
+	color: #efefef;
 }
 
 .contact-form textarea {
-    background-color: transparent;
+	background-color: transparent;
 }
 
 .contact-button {
-    font-size: 24px;
+	font-size: 24px;
 }
-/* ------------------------ Body + Background Image -------------------------  */ 
+
+
+/* ------------------------ Body + Background Image -------------------------  */
 
 body {
-    min-height: 100vh;
-    background-size:cover;
-    background-blend-mode: multiply;
-    color: #efefef;
-    display: flex;
-    flex-direction: column;
+	min-height: 100vh;
+	background-size: cover;
+	background-blend-mode: multiply;
+	color: #efefef;
+	display: flex;
+	flex-direction: column;
 }
 
 #main-page {
-    background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.9);
 }
 
 #progress-page {
-    background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.9); 
+	background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.9);
 }
 
 #project-page {
-    background: url("../imgs/project.jpeg") rgba(34, 35, 36, 0.9); 
+	background: url("../imgs/project.jpeg") rgba(34, 35, 36, 0.9);
 }
 
 #connect-page {
-    background: url("../imgs/connect.jpeg") rgba(34, 35, 36, 0.9); 
+	background: url("../imgs/connect.jpeg") rgba(34, 35, 36, 0.9);
 }
 
-/* -------------------------------- General ---------------------------------  */ 
+
+/* -------------------------------- General ---------------------------------  */
 
 .uppercase {
-    text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 body {
     margin-bottom: 75px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+	font-family: "Fjalla One", sans-serif;
 }
