@@ -56,6 +56,12 @@ footer {
 	font-size: 24px;
 }
 
+.flag {
+	height: 4em;
+	width: 6em;
+	margin-bottom: 15px;
+}
+
 
 /* -------------------------------- Progress --------------------------------  */
 
@@ -87,7 +93,7 @@ footer {
 
 .my-card {
 	color: #efefef;
-    letter-spacing: 2px;
+	letter-spacing: 2px;
 }
 
 .card-img-top {
@@ -112,6 +118,7 @@ footer {
 .project-header {
 	font-size: 18px;
 }
+
 /* -------------------------------- Connect --------------------------------  */
 
 .contact-text {
@@ -161,6 +168,10 @@ body {
 	background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.9);
 }
 
+#about-page {
+	background: url("../imgs/about.jpeg") rgba(34, 35, 36, 0.9);
+}
+
 #progress-page {
 	background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.9);
 }
@@ -181,7 +192,7 @@ body {
 }
 
 body {
-    margin-bottom: 75px;
+	margin-bottom: 75px;
 }
 
 h1,
