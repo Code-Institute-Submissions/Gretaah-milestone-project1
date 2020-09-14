@@ -94,6 +94,7 @@ footer {
 .my-card {
 	color: #efefef;
 	letter-spacing: 2px;
+	display: flex;
 }
 
 .card-img-top {
@@ -123,6 +124,7 @@ footer {
 
 .contact-text {
 	color: #efefef;
+	margin-top: 75px;
 }
 
 .contact-text h2 {
@@ -131,7 +133,7 @@ footer {
 }
 
 .contact-text p {
-	padding-top: 25px;
+	margin: 45px;
 	letter-spacing: 2px;
 }
 
@@ -150,6 +152,10 @@ footer {
 
 .contact-button {
 	font-size: 24px;
+}
+
+.form-space {
+	margin-bottom: 35px;
 }
 
 
