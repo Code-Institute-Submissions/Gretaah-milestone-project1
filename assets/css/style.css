@@ -5,23 +5,23 @@
 
 footer {
 	width: 100%;
-	height: 65px;
+	height: 4.0625rem;
 	position: fixed;
-	bottom: 1px;
+	bottom: 0.0625rem;
 }
 
 .copyright {
 	text-align: right;
-	padding-top: 30px;
+	padding-top: 1.875rem;
 }
 
 .contact {
-	padding-top: 5px;
+	padding-top: 0.3125rem;
 }
 
 .contact i {
 	color: #efefef;
-	font-size: 18px;
+	font-size: 1.125rem;
 }
 
 .contact i:hover {
@@ -34,7 +34,7 @@ footer {
 .navbar-brand {
 	color: #efefef;
 	font-family: "Anton", sans-serif;
-	font-size: 24px;
+	font-size: 1.5rem;
 	text-decoration: none;
 }
 
@@ -42,24 +42,28 @@ footer {
 	color: #efefef;
 	font-family: "Anton", sans-serif;
 	font-weight: 500;
-	font-size: 24px;
-	letter-spacing: 2px;
+	font-size: 1.5rem;
+	letter-spacing: 0.125rem;
 }
-
 
 /* ---------------------------------- Home ----------------------------------  */
 
-
-.home-text {
-	color: #efefef;
-	letter-spacing: 2px;
-	font-size: 24px;
+.carousel {
+	padding-top: 2.1875rem;
+	width: 75rem;
+	height: 33.75rem;
 }
+
+.carousel-item {
+	background: rgba(34, 35, 36, 0.9);
+}
+
+/* ---------------------------------- About ----------------------------------  */
 
 .flag {
 	height: 4em;
 	width: 6em;
-	margin-bottom: 15px;
+	margin-bottom: 0.9375rem;
 }
 
 
@@ -67,33 +71,26 @@ footer {
 
 
 .progress {
-	height: 36px;
+	height: 2.25rem;
 	margin-bottom: 1em;
 	background-color: transparent;
 }
 
 .progress-bar {
-	font-size: 18px;
+	font-size: 1.125rem;
 	font-weight: 600;
-	letter-spacing: 2px;
+	letter-spacing: 0.125rem;
 }
 
 .progress-bar span {
 	position: absolute;
 }
 
-.progress-text {
-	padding: 75px 0px 0px 0px;
-	letter-spacing: 2px;
-	font-size: 24px;
-}
-
-
 /* -------------------------------- Projects --------------------------------  */
 
 .my-card {
 	color: #efefef;
-	letter-spacing: 2px;
+	letter-spacing: 0.125rem;
 	display: flex;
 }
 
@@ -107,7 +104,7 @@ footer {
 }
 
 .card-body a {
-	font-size: 34px;
+	font-size: 2.125rem;
 	color: #efefef;
 	text-decoration: none;
 }
@@ -117,24 +114,24 @@ footer {
 }
 
 .project-header {
-	font-size: 18px;
+	font-size: 1.125rem;
 }
 
 /* -------------------------------- Connect --------------------------------  */
 
-.contact-text {
+.connect-text {
 	color: #efefef;
-	margin-top: 75px;
+	margin-top: 4.6875rem;
 }
 
-.contact-text h2 {
+.connect-text h2 {
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 0.125rem;
 }
 
-.contact-text p {
-	margin: 45px;
-	letter-spacing: 2px;
+.connect-text p {
+	margin: 2.8125rem;
+	letter-spacing: 0.125rem;
 }
 
 .contact-form {
@@ -151,11 +148,11 @@ footer {
 }
 
 .contact-button {
-	font-size: 24px;
+	font-size: 1.5rem;
 }
 
 .form-space {
-	margin-bottom: 35px;
+	margin-bottom: 2.1875rem;
 }
 
 
@@ -168,26 +165,27 @@ body {
 	color: #efefef;
 	display: flex;
 	flex-direction: column;
+	margin-bottom: 4.6875rem;
 }
 
 #main-page {
-	background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/home.jpeg") rgba(34, 35, 36, 0.9) fixed no-repeat;
 }
 
 #about-page {
-	background: url("../imgs/about.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/about.jpeg") rgba(34, 35, 36, 0.9) fixed no-repeat;
 }
 
 #progress-page {
-	background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/progress.jpeg") rgba(34, 35, 36, 0.9) fixed no-repeat;
 }
 
 #project-page {
-	background: url("../imgs/project.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/project.jpeg") rgba(34, 35, 36, 0.9) fixed no-repeat;
 }
 
 #connect-page {
-	background: url("../imgs/connect.jpeg") rgba(34, 35, 36, 0.9);
+	background: url("../imgs/connect.jpeg") rgba(34, 35, 36, 0.9) fixed no-repeat;
 }
 
 
@@ -197,9 +195,6 @@ body {
 	text-transform: uppercase;
 }
 
-body {
-	margin-bottom: 75px;
-}
 
 h1,
 h2,
@@ -208,4 +203,10 @@ h4,
 h5,
 p {
 	font-family: "Fjalla One", sans-serif;
+}
+
+.general-text {
+	padding: 4.6875rem 0 0 0;
+	letter-spacing: 0.125rem;
+	font-size: 1.5rem;
 }
