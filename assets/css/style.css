@@ -160,7 +160,6 @@ footer {
 
 body {
 	min-height: 100vh;
-	background-size: cover;
 	background-blend-mode: multiply;
 	color: #efefef;
 	display: flex;
