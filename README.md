@@ -67,7 +67,15 @@ At the last part of my testing I manually went through all my code to see if I c
 
 <br/>
 
-https://unsplash.com/photos/xrVDYZRGdw4)
+Most of the images at my website is from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
+
+<br/>
+
+#### Background images
+
+<br/>
+
+* [Emile Perron](https://unsplash.com/photos/xrVDYZRGdw4)
 
 * [Thom Holmes](https://unsplash.com/photos/RbR3kf9M4F8)
 
@@ -76,7 +84,14 @@ https://unsplash.com/photos/xrVDYZRGdw4)
 * [Andrew Neel](https://unsplash.com/photos/cckf4TsHAuw)
 
 * [Chen Mizrach](https://unsplash.com/photos/1NTOQHBRegA)
-https://unsplash.com/photos/6f5cTP2T28U)
+
+<br/>
+
+#### Index pictures of Gothenburg and Hamburg
+
+<br/>
+
+* [Miguel Ángel Sanz](https://unsplash.com/photos/6f5cTP2T28U)
 
 * [Edvin Johansson](https://unsplash.com/photos/Mmjkm_ueuDM)
 
