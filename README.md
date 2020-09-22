@@ -2,11 +2,15 @@
 
 <br/>
 
-I made this site to show my friends and family the progress I have made in learning full stack web development. At first I planned to make a portfolio page but later decided against it because I think it would be more useful in the future when I have more information to the page.
+I have made this site to show my friends and family my progress in learning full stack web development. At first I planned to make a portfolio page but later decided against it because I think the portfolio will be more useful when I have more information to present on the page.
 
 <br/>
 
 ## UX
+
+<br/>
+
+### User Story
 
 <br/>
 
@@ -23,11 +27,11 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 * About: This is a short about text in English, German and Swedish to make an introduction to people that might not know me. It will also have the country flags over each language.
 
-* Progress: Progress bars for each individual part of the course I'm taking at the code institute
+* Progress: Progress bars for each individual part of the course I am taking at the Code Institute
 
-* Projects: I'm using this page to show off some projects that I'm interested in for now but when my own projects are done I will add them there.
+* Projects: I am using this page to introduce some projects that I am interested in at the moment but when my own projects are done I will add them here.
 
-* Connect: This page I made in case some of my friends or family wanted to recommend people to collaborate with me, or maybe hire me.
+* Connect: This page I made in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me.
 
 <br/>
 
@@ -47,11 +51,11 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 <br/>
 
-During my testing process I ran all my code through online html and css testing tools to make sure there were no errors in my code, I also ran the code through a online formatter to make sure that my formatting was okay.
+During my testing process I ran all my code through online html and css testing tools to make sure there were no errors in my code. I also ran the code through an online formatter to make sure that my formatting was correct.
 
 <br/>
 
-For the last part of my testing I manually went through all my code to see if I could spot any errors or spelling mistakes, I also checked every link and tested the forms so they worked as expected.
+At the last part of my testing I manually went through all my code to see if I could spot any errors or spelling mistakes, I also checked every link and tested the forms so they worked as expected.
 
 <br/>
 
@@ -63,15 +67,7 @@ For the last part of my testing I manually went through all my code to see if I 
 
 <br/>
 
-Most of the images at my website is from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
-
-<br/>
-
-#### Background images
-
-<br/>
-
-* [Emile Perron](https://unsplash.com/photos/xrVDYZRGdw4)
+https://unsplash.com/photos/xrVDYZRGdw4)
 
 * [Thom Holmes](https://unsplash.com/photos/RbR3kf9M4F8)
 
@@ -80,14 +76,7 @@ Most of the images at my website is from Unsplash (source of freely usable image
 * [Andrew Neel](https://unsplash.com/photos/cckf4TsHAuw)
 
 * [Chen Mizrach](https://unsplash.com/photos/1NTOQHBRegA)
-
-<br/>
-
-#### Index pictures of Gothenburg and Hamburg
-
-<br/>
-
-* [Miguel Ángel Sanz](https://unsplash.com/photos/6f5cTP2T28U)
+https://unsplash.com/photos/6f5cTP2T28U)
 
 * [Edvin Johansson](https://unsplash.com/photos/Mmjkm_ueuDM)
 
@@ -105,7 +94,7 @@ Most of the images at my website is from Unsplash (source of freely usable image
 
 <br/>
 
-All the content for my projects page comes from the wikipedia site or the website for each project
+All the content for my projects page is from the Wikipedia site or the website for each project
 
 <br/>
 
@@ -121,4 +110,3 @@ All the content for my projects page comes from the wikipedia site or the websit
 <br/>
 
 I got some inspiration on how to make this site from previous projects at the Code Institute, as example the Love Runnings Project. I used stack overflow and the bootstrap documentation when I needed to find out how to do some things as well.
-
