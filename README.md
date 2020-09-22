@@ -19,7 +19,7 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 <br/>
 
-##  &nbsp; &nbsp; Features
+## Features
 
 <br/>
 
