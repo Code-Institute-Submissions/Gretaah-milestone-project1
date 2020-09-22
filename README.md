@@ -51,7 +51,7 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 <br/>
 
-During my testing process I ran all my code through an online html and css testing tools to make sure there were no errors in my code. I also ran the code through an online formatter to make sure that my formatting was correct.
+During my testing process I ran all my code through 1online html and css testing tools to make sure there were no errors in my code. I also ran the code through an online formatter to make sure that my formatting was correct.
 
 <br/>
 
