@@ -35,7 +35,7 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 <br/>
 
-## &nbsp; &nbsp; Technologies Used
+## Technologies Used
 
 <br/>
 
@@ -109,7 +109,7 @@ Most of the images at my website is from Unsplash (source of freely usable image
 
 <br/>
 
-All the content for my projects page is from the Wikipedia site or the website for each project
+All the content for my projects page comes from the Wikipedia site or the website for each project
 
 <br/>
 
