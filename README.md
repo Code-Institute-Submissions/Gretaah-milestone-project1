@@ -23,15 +23,15 @@ I would also like to see graphics in the form of progress bars so that I can see
 
 <br/>
 
-* Index: a short description of the site with a few pictures of Hamburg and Gothenburg to make it look nice.
+* **Index** a short description of the site with a few pictures of Hamburg and Gothenburg to make it look nice.
 
-* About: This is a short about text in English, German and Swedish to make an introduction to people that might not know me. It will also have the country flags over each language.
+* **About** This is a short about text in English, German and Swedish to make an introduction to people that might not know me. It will also have the country flags over each language.
 
-* Progress: Progress bars for each individual part of the course I am taking at the Code Institute
+* **Progress** Progress bars for each individual part of the course I am taking at the Code Institute
 
-* Projects: I am using this page to introduce some projects that I am interested in at the moment but when my own projects are done I will add them here.
+* **Projects** I am using this page to introduce some projects that I am interested in at the moment but when my own projects are done I will add them here.
 
-* Connect: This page I made in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me.
+* **Connect** This page I made in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me.
 
 <br/>
 
@@ -67,7 +67,7 @@ At the last part of my testing I manually went through all my code to see if I c
 
 <br/>
 
-Most of the images at my website is from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
+Most of the images at my website comes from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
 
 <br/>
 
