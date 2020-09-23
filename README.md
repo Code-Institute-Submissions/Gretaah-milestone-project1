@@ -67,7 +67,7 @@ At the last part of my testing I manually went through all my code to see if I c
 
 <br/>
 
-Most of the images at my website is from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
+Most of the images at my website comes from Unsplash (source of freely usable images). I would like to give credit to the people who created these images:
 
 <br/>
 
