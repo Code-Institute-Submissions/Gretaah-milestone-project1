@@ -5,18 +5,14 @@
 
 footer {
 	width: 100%;
-	height: 4.0625rem;
+	height: 4rem;
 	position: fixed;
 	bottom: 0.0625rem;
 }
 
 .copyright {
 	text-align: right;
-	padding-top: 1.875rem;
-}
-
-.contact {
-	padding-top: 0.3125rem;
+	padding-top: 1.875em;
 }
 
 .contact i {
@@ -35,7 +31,6 @@ footer {
 	color: #efefef;
 	font-family: "Anton", sans-serif;
 	font-size: 1.5rem;
-	text-decoration: none;
 }
 
 .nav-link {
@@ -49,7 +44,7 @@ footer {
 /* ---------------------------------- Home ----------------------------------  */
 
 .carousel {
-	padding-top: 2.1875rem;
+	padding-top: 2em;
 	width: 75rem;
 	height: 33.75rem;
 }
@@ -63,16 +58,13 @@ footer {
 .flag {
 	height: 4em;
 	width: 6em;
-	margin-bottom: 0.9375rem;
 }
-
 
 /* -------------------------------- Progress --------------------------------  */
 
 
 .progress {
 	height: 2.25rem;
-	margin-bottom: 1em;
 	background-color: transparent;
 }
 
@@ -121,7 +113,7 @@ footer {
 
 .connect-text {
 	color: #efefef;
-	margin-top: 4.6875rem;
+	margin-top: 3em;
 }
 
 .connect-text h2 {
@@ -130,7 +122,7 @@ footer {
 }
 
 .connect-text p {
-	margin: 2.8125rem;
+	margin: 2.8125em;
 	letter-spacing: 0.125rem;
 }
 
@@ -152,7 +144,7 @@ footer {
 }
 
 .form-space {
-	margin-bottom: 2.1875rem;
+	margin-bottom: 2.187em;
 }
 
 
@@ -164,7 +156,7 @@ body {
 	color: #efefef;
 	display: flex;
 	flex-direction: column;
-	margin-bottom: 4.6875rem;
+	margin-bottom: 4.7em;
 }
 
 #main-page {
@@ -204,7 +196,7 @@ p {
 }
 
 .general-text {
-	padding: 4.6875rem 0 0 0;
+	padding: 3em 0 0 0;
 	letter-spacing: 0.125rem;
 	font-size: 1.5rem;
 }
