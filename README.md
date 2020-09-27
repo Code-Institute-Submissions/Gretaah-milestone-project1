@@ -2,7 +2,7 @@
 
 <br/>
 
-I have made this site to show my friends and family my progress in learning full stack web development. At first I planned to make a portfolio page but later decided against it because I think the portfolio will be more useful when I have more information to present on the page.
+The goal with this site to show my friends and family my progress in learning full stack web development and to expand my professional network. At first I planned to make a portfolio page but later decided against it because I think the portfolio will be more useful when I have more information to present on the page.
 
 <br/>
 
@@ -10,7 +10,7 @@ I have made this site to show my friends and family my progress in learning full
 
 <br/>
 
-### User Goals
+## User Stories
 
 <br/>
 
@@ -21,14 +21,18 @@ I have made this site to show my friends and family my progress in learning full
 
 <br/>
 
-### User Stories
+### User Goals
 
 <br/>
 
-- As a user, I want a website with a transparent navbar and footer that is focused on beautiful images.
-- As a user, I want to find information about the site owners progress on becoming a full stack web developer.
-- As a user, I want there to be a contact form in case I want to recomend someone to collaborate with the site owner, or maybe even hire the site owner.
-- As I user, I want to see graphs on each stage the site owner is taking to reach his goal to become a full stack web developer.
+As a user, I want
+
+<br/>
+
+- a website with a transparent navbar and footer that is focused on beautiful images.
+- to find information about the site owners progress on becoming a full stack web developer.
+- there to be a contact form in case I want to recommend someone to collaborate with the site owner, or maybe even hire the site owner.
+- to see graphs on each stage the site owner is taking to reach his goal to become a full stack web developer.
 
 <br/>
 
@@ -36,11 +40,19 @@ I have made this site to show my friends and family my progress in learning full
 
 <br/>
 
-As a site owner, I want to showcase my progress as a student to my friends and family.
-As a site owner, I want to show the progress of each part of the course I'm taking at the code institute.
-As a site owner, I want to show off my projects.
-As a site owner, I want there to be a way for people to contact me in case a friend or family member recommends anyone to collaborate with me.
+As a site owner, I want
 
+<br/>
+
+- to showcase my progress as a student to my friends and family.
+
+- to show the progress of each part of the course I am taking at the Code Institute.
+
+- my site to be a channel to present my projects and progress.
+
+- the site to be useful if my network want to recommend people interested in collaboration to get in touch with me.
+
+<br/>
 <br/>
 
 ## User Requirements and Expectations
@@ -52,10 +64,10 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 <br/>
 
 - Provide information about Tommy's progress as a student.
-- Provide information about projects
-- Provide a navbar to navigate the site
+- Provide information about the projects.
+- Provide a navbar to navigate the site.
 - Provide visually appealing content with a focus on beautiful images.
-- Provide a contact form in case someone wants to recommend collaboration
+- Provide a contact form in case someone want to recommend collaboration with or hiring the site owner.
 
 <br/>
 
@@ -69,6 +81,15 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 <br/>
 
+## Wireframe
+
+<br/>
+<img src="assets/imgs/wireframe.png"
+     alt="wireframe"/>
+
+<br/>
+<br/>
+
 ## Features
 
 <br/>
@@ -79,9 +100,9 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 - **Progress** Progress bars for each individual part of the course I am taking at the Code Institute
 
-- **Projects** I am using this page to introduce some projects that I am interested in at the moment but when my own projects are done I will add them here.
+- **Projects** I am using this page to introduce some projects that I am interested in at the moment but when my own projects are completed I will add them here.
 
-- **Connect** This page I made in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me.
+- **Connect** I have made this site in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me. I would also like people to get in touch with advice on how to develop the content on the site.
 
 <br/>
 
@@ -119,19 +140,19 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 <br/>
 
-### I first ran my css file trough a [CSS Validator](https://jigsaw.w3.org/css-validator/) without getting any errors.
+### I first ran my css file trough a [CSS Validator](https://jigsaw.w3.org/css-validator/) without finding any errors.
 
 <br/>
 
-### I then ran my html files trough a [HTML Validator](https://validator.w3.org/) and I got a few errors that I fixed.
+### I then ran my html files trough a [HTML Validator](https://validator.w3.org/) and I found a few errors that now is taken care of.
 
 <br/>
 
-- Index page was missing a heading and I fixed this by changing a paragraph to a heading.
+- The index page was missing a heading something I resolved by changing a paragraph to a heading.
 
-- Index page also had a spelling error in the carouselControls that I fixed.
+- The index page also had a spelling error in the carouselControls which is now corrected.
 
-- My navbar also had a spelling error that came from when I copied it and I fixed that as well.
+- There was also a spelling error in the navbar that I now have corrected. The error is from when I copied the text.
 
 <br/>
 
@@ -139,7 +160,7 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 <br/>
 
-- I tested the responsiveness of every page throughout the process of building the site.
+- I tested the responsiveness of every page throughout the process of building the site. One example is the ability to respond to someone who is interested in more information.
 
 - I looked at my site in different sizes using google dev tools to see how the site would look and respond in each one.
 
@@ -151,7 +172,7 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 <br/>
 
-- I tested so that the form validation worked on each field by typing in data to see so it worked as expected.
+- I tested the contact form to make sure that the form validation worked as expected on each field by typing in data.
 
 <br/>
 
@@ -159,7 +180,7 @@ As a site owner, I want there to be a way for people to contact me in case a fri
 
 <br/>
 
-- My design choise of having a transparent footer and navbar presented a problem with the body content overlapping the footer so I added a background color to my footer after my mentor adviced me to do so.
+- My design choice of having a transparent footer and navbar presented a problem with the body content overlapping the footer. I solved this by adding a background colour to my footer after advise from my mentor.
 
 <br/>
 
@@ -228,4 +249,4 @@ All the content for my projects page comes from the Wikipedia site or the websit
 
 <br/>
 
-I wanna give thanks to the teachers at the code institute, I took some inspiration from the projects we did before when I created this. I also wanna thank my mentor Reuben Ferrante for helping me throughout the project.
+I would like to thank my mentor Reuben Ferrante for his valuable advice and support throughout this project. I would also like to thank the teachers at the Code Institute for the projects that they have guided us through earlier and that now have been an inspiration when I created this web site.
