@@ -2,7 +2,7 @@
 
 <br/>
 
-The goal with this site to show my friends and family my progress in learning full stack web development and to expand my professional network. At first I planned to make a portfolio page but later decided against it because I think the portfolio will be more useful when I have more information to present on the page.
+The goal with this site to show my friends and family my progress in learning full stack web development. At first I planned to make a portfolio page but later decided against it because I think the portfolio will be more useful when I have more information to present and greater knowlage when it comes to for example javascript.
 
 <br/>
 
@@ -17,7 +17,7 @@ The goal with this site to show my friends and family my progress in learning fu
 - Find information about the site owner.
 - Find information about the site owners progress as a student at the code institute.
 - Images of Hamburg and Gothenburg (where the site owner lives and where he is from).
-- Contact the site owner .
+- Contact the site owner.
 
 <br/>
 
@@ -45,12 +45,9 @@ As a site owner, I want
 <br/>
 
 - to showcase my progress as a student to my friends and family.
-
 - to show the progress of each part of the course I am taking at the Code Institute.
-
-- my site to be a channel to present my projects and progress.
-
-- the site to be useful if my network want to recommend people interested in collaboration to get in touch with me.
+- the site to be a channel to present my projects and progress.
+- the site to be useful if my network wants to recommend people interested in collaboration to get in touch with me.
 
 <br/>
 <br/>
@@ -84,8 +81,7 @@ As a site owner, I want
 ## Wireframe
 
 <br/>
-<img src="assets/imgs/wireframe.png"
-     alt="wireframe"/>
+<img src="assets/imgs/wireframe.png" alt="wireframe"/>
 
 <br/>
 <br/>
@@ -102,7 +98,7 @@ As a site owner, I want
 
 - **Projects** I am using this page to introduce some projects that I am interested in at the moment but when my own projects are completed I will add them here.
 
-- **Connect** I have made this site in case some of my friends or family want to recommend people to collaborate with me, or maybe hire me. I would also like people to get in touch with advice on how to develop the content on the site.
+- **Connect** I have made this site in case some of my friends or family wants to recommend people to collaborate with me, or maybe hire me.
 
 <br/>
 
@@ -140,15 +136,15 @@ As a site owner, I want
 
 <br/>
 
-### I first ran my css file trough a [CSS Validator](https://jigsaw.w3.org/css-validator/) without finding any errors.
+#### I first ran my css file trough a [CSS Validator](https://jigsaw.w3.org/css-validator/) without finding any errors.
 
 <br/>
 
-### I then ran my html files trough a [HTML Validator](https://validator.w3.org/) and I found a few errors that now is taken care of.
+#### I then ran my html files trough a [HTML Validator](https://validator.w3.org/) and I found a few errors that now is taken care of.
 
 <br/>
 
-- The index page was missing a heading something I resolved by changing a paragraph to a heading.
+- The index page was missing a heading, something I resolved by changing a paragraph to a heading.
 
 - The index page also had a spelling error in the carouselControls which is now corrected.
 
@@ -160,11 +156,11 @@ As a site owner, I want
 
 <br/>
 
-- I tested the responsiveness of every page throughout the process of building the site. One example is the ability to respond to someone who is interested in more information.
+- I tested the responsiveness of every page throughout the process of building the site.
 
 - I looked at my site in different sizes using google dev tools to see how the site would look and respond in each one.
 
-- From advice from my mentor Reuben Ferrante I changed the layout of my project cards to make them look better in tablet view.
+- After advice from my mentor Reuben Ferrante I changed the layout of my project cards to make them look better in tablet view.
 
 <br/>
 
@@ -249,4 +245,5 @@ All the content for my projects page comes from the Wikipedia site or the websit
 
 <br/>
 
-I would like to thank my mentor Reuben Ferrante for his valuable advice and support throughout this project. I would also like to thank the teachers at the Code Institute for the projects that they have guided us through earlier and that now have been an inspiration when I created this web site.
+I would like to thank my mentor Reuben Ferrante for his valuable advice and
+support throughout this project. I would also like to thank the teachers at the Code Institute for their guidance through different projects which has been an inspiration when I created this web site.
