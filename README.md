@@ -180,6 +180,34 @@ As a site owner, I want
 
 <br/>
 
+## Deployment
+
+<br/>
+
+### I created this site with vscode and with git I pushed it to github where I also published the site.
+
+<br/>
+
+I made the following steps in deploying my site:
+
+- Pushed my commits from git to github.
+
+- Logged in to my github account.
+
+- Selected my repositories.
+
+- Navigated to milestone-project1.
+
+- Clicked on settings.
+
+- Scrolled down to where I can do the github pages settings.
+
+- Selected the master branch from the dropdown menu.
+
+- Clicked on save.
+
+<br/>
+
 ## Credits
 
 <br/>
